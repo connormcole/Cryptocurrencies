@@ -1,0 +1,10 @@
+# Ignore module files
+Resources
+
+elbow_curve.ipynb
+iris_data.ipynb
+k_means_ex.ipynb
+PCA.ipynb
+shopping_k_means.ipynb
+use_elbow_curve.ipynb
+hierarchical_clustering.ipynb
